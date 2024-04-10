@@ -1,0 +1,4 @@
+Customer_ID,First_Name,Last_Name,Email,Phone_Number
+1,John,Doe,johndoe@example.com,555-1111
+2,Jane,Smith,janesmith@example.com,555-2222
+3,Alice,Johnson,alicejohnson@example.com,555-3333

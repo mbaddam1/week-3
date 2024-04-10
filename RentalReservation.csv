@@ -1,0 +1,4 @@
+Reservation_ID,Rental_Start_Date,Rental_End_Date,Customer_ID,Vehicle_ID,Total_Cost,Reservation_Status
+1,2024-04-01,2024-04-05,1,1,200.00,Confirmed
+2,2024-04-02,2024-04-07,2,3,275.00,Confirmed
+3,2024-04-03,2024-04-06,3,2,180.00,Confirmed

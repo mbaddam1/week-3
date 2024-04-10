@@ -1,0 +1,4 @@
+Vehicle_ID,Vehicle_Make,Vehicle_Model,Year,Rental_Price_Per_Day
+1,Toyota,Camry,2022,50.00
+2,Ford,Focus,2021,45.00
+3,Honda,CR-V,2020,55.00
